@@ -8,6 +8,5 @@ This repository contains intentionally vulnerable code designed for security tes
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/vulnerable-app-test.git
-   cd vulnerable-app-test
+ 
 
