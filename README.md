@@ -1,12 +1,6 @@
-# Vulnerable Application for Testing
+# Vulnerable-Code-Snippets
 
-This repository contains intentionally vulnerable code designed for security testing using tools like Checkmarx.
+A collection of vulnerable code snippets taken form around the internet. Snippets taken from various blog posts, books, resources etc. No Copyright Infringement Intended
 
-## Features
-- **SQL Injection Vulnerability:** Demonstrates how unsanitized inputs can lead to SQL Injection attacks.
 
-## Usage
-1. Clone the repository:
-   ```bash
- 
-
+**Note: This is not a good benchmark for testing static analysis tools, they are broken code snippets, with missing imports and missing files.** 
